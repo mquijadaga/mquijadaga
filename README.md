@@ -4,7 +4,7 @@
 
 - 💬 Preguntame sobre mi TFG, donde he trabajado con tecnologías Cloud y dispositivos IoT. 📈
 
-- 📫 Si quieres más información laboral sobre mí, aquí mismo tienes mi Linkedin : linkedin.com/in/mario-quijada-garcía-4a4b16208 🔗
+- 📫 Si quieres más información laboral sobre mí, aquí tienes mi Linkedin : linkedin.com/in/mario-quijada-garcía-4a4b16208 🔗
 
 
 <!--
