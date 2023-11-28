@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there all of you👋
+
+- 🌱 Actualmente estoy tratando de adquirir la certificación de conocimientos en la nube de Amazon : AWS Cloud Practitioner ⚡.
+
+- 💬 Preguntame sobre mi TFG, donde he trabajado con tecnologías Cloud y dispositivos IoT. 📈
+
+- 📫 Si quieres más información laboral sobre mí, aquí mismo tienes mi Linkedin : linkedin.com/in/mario-quijada-garcía-4a4b16208 🔗
+
 
 <!--
 **mquijadaga/mquijadaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
