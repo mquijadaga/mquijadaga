@@ -1,4 +1,4 @@
-### Hi there all of you👋
+### Hola a todos y todas <3👋
 
 - 🌱 Actualmente estoy tratando de adquirir la certificación de conocimientos en la nube de Amazon : AWS Cloud Practitioner ⚡.
 
