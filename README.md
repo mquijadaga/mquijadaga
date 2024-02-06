@@ -2,6 +2,8 @@
 
 - 🌱 Actualmente estoy tratando de adquirir la certificación de conocimientos en la nube de Amazon : AWS Cloud Practitioner ⚡.
 
+- 🌱 A mayores, ultimamente estoy interesandome en el mundo de la Blockchain y los Smarts-Contracts 🌱
+
 - 💬 Preguntame sobre mi TFG, donde he trabajado con tecnologías Cloud y dispositivos IoT. 📈
 
 - 📫 Si quieres más información laboral sobre mí, aquí tienes mi Linkedin : linkedin.com/in/mario-quijada-garcía-4a4b16208 🔗
