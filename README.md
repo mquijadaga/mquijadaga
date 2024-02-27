@@ -2,7 +2,7 @@
 
 - 🌱 Actualmente estoy tratando de adquirir la certificación de conocimientos en la nube de Amazon : AWS Cloud Practitioner ⚡.
 
-- 🌱 A mayores, ultimamente estoy interesandome en el mundo de la Blockchain y los Smarts-Contracts 🌱
+- 🌱 A mayores, ultimamente estoy interesandome en el mundo de la Blockchain, Smarts-Contracts y React 🌱
 
 - 💬 Preguntame sobre mi TFG, donde he trabajado con tecnologías Cloud y dispositivos IoT. 📈
 
